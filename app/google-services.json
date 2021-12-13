@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918736099055",
+    "project_id": "workitdone-cf2be",
+    "storage_bucket": "workitdone-cf2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918736099055:android:dc2215ab646ec48d166d1a",
+        "android_client_info": {
+          "package_name": "com.example.workitdone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918736099055-9s9f9upsl9tq95np0hafb3ucqv6dtvcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workitdone",
+            "certificate_hash": "c092ff3383eaee768e60f4de554c1da78e90ecbe"
+          }
+        },
+        {
+          "client_id": "918736099055-gom5flpfe8j7eq2nuuelm4bqcgt3nsrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxl7mEDryu7Hn8Ni0eelBqg3eE2_BEWWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918736099055-gom5flpfe8j7eq2nuuelm4bqcgt3nsrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
